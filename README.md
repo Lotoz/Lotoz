@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Lotoz :D
+# 👋 Hello! I'm Lotoz :D
 
 > Welcome to my GitHub corner!  
 > Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
@@ -8,7 +8,7 @@
 - Linux Lover 🐧 | Open Source Advocate 🌐
 - Always learning, experimenting, and sharing code 🚀
   
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 - Studying Cybersecurity 🛡️  
 - Learning Programming Languages: Java, Python, Shell, PHP 💻  
 - DAW (Web Development) 🖥️
