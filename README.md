@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Lotoz :D
+### 👋 Hello! I'm Lotoz :D
 
 > Welcome to my GitHub corner!  
 > Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
