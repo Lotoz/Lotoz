@@ -20,7 +20,7 @@ A continuacion un experimento de cambio de fondo
 
 ###
 
-<div align="center">
+<div align="center" backgroud="purple">
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=linux" height="60" alt="python logo"  />
   <img width="12" />
