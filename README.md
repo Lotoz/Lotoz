@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 A continuacion un experimento de cambio de fondo
 -->
-<link rel="stylesheet" href="style.css">
+![Fondo morado](https://via.placeholder.com/1200x200/800080/ffffff?text=Fondo+Morado)
 
 ###
 
