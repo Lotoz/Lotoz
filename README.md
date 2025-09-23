@@ -1,5 +1,19 @@
-## Hello! Im Lotoz :D
-Bienvenido a mi perfil.
+## 👋 Hello! I'm Lotoz :D
+
+> Welcome to my GitHub corner!  
+> Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
+
+## 💻 About Me
+- Junior Developer & Cybersecurity Enthusiast 🔐
+- Linux Lover 🐧 | Open Source Advocate 🌐
+- Always learning, experimenting, and sharing code 🚀
+  
+# 🌱 Currently Learning
+- Studying Cybersecurity 🛡️  
+- Learning Programming Languages: Java, Python, Shell, PHP 💻  
+- DAW (Web Development) 🖥️
+- Always learning Linux 🐧 (I use Arch BTW 😉💜)
+
 <!--
 **Lotoz/Lotoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
