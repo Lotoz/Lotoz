@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+A continuacion un experimento de cambio de fondo
+-->
+<link rel="stylesheet" href="style.css">
 
 ###
 
