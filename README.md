@@ -1,4 +1,4 @@
-[# 👋 Hello! I'm Lotoz :D](https://lotoz.github.io/Lotoz-Web/)
+# [👋 Hello! I'm Lotoz :D](https://lotoz.github.io/Lotoz-Web/)
 
 > Welcome to my GitHub corner!  
 > Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
