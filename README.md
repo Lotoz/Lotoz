@@ -1,7 +1,7 @@
 # Hi my friend! I'm Lotoz :D
 > Welcome to my GitHub corner!  
 > Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
-<!--> ###### [See this!](https://lotoz.github.io/Lotoz-Web/)-->
+<!-- ###### [See this!](https://lotoz.github.io/Lotoz-Web/)-->
 ## 💻 About Me
 - Junior Developer & Cybersecurity Enthusiast 🔐
 - Linux Lover 🐧
@@ -60,8 +60,8 @@
   <a href="https://www.youtube.com/@doctorlotoz">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-  <a href="https://www.youtube.com/@doctorlotoz">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=#fd5949&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  <a href="https://www.instagram.com/dr_lotoz?igsh=OWw5bXVsdDNobGhz">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=#d6249f&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
 
