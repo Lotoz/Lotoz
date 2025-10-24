@@ -1,7 +1,7 @@
 # Hi my friend! I'm Lotoz :D
 > Welcome to my GitHub corner!  
 > Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
-<!-- ###### [See this!](https://lotoz.github.io/Lotoz-Web/)-->
+###### [See this!](https://lotoz.github.io/Lotoz-Web/)
 ## 💻 About Me
 - Junior Developer & Cybersecurity Enthusiast 🔐
 - Linux Lover 🐧
