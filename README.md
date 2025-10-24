@@ -1,40 +1,26 @@
-# [👋 Hello! I'm Lotoz :D](https://lotoz.github.io/Lotoz-Web/)
-
+# Hi my friend! I'm Lotoz :D
 > Welcome to my GitHub corner!  
 > Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
-
+<!--> ###### [See this!](https://lotoz.github.io/Lotoz-Web/)-->
 ## 💻 About Me
 - Junior Developer & Cybersecurity Enthusiast 🔐
-- Linux Lover 🐧 | Open Source Advocate 🌐
+- Linux Lover 🐧
+- Open Source Advocate 🌐
 - Always learning, experimenting, and sharing code 🚀
   
 ## 🌱 Currently Learning
 - Studying Cybersecurity 🛡️  
-- Learning Programming Languages: Java, Python, Shell, PHP 💻  
+- Learning Programming Languages: Java, Python, Shell, PHP, JavaScript, and more! 💻  
 - DAW (Web Development) 🖥️
 - Always learning Linux 🐧 (I use Arch BTW 😉💜)
 
-<!--
-**Lotoz/Lotoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-A continuacion un experimento de cambio de fondo
--->
-
-
 ###
-
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,arch,debian,py,js,java,bash,godot,mysql,vs" />
+  </a>
+</p>
+<!--<div align="center">
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=linux" height="60" alt="python logo"  />
   <img width="12" />
@@ -52,7 +38,14 @@ A continuacion un experimento de cambio de fondo
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="python logo"  />
   <img width="12" />
-</div>
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="python logo"  />
+  <img width="12" />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="python logo"  />
+  <img width="12" />
+</div>-->
+
   <!--   
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="python logo"  />
   <img width="12" />
@@ -66,6 +59,9 @@ A continuacion un experimento de cambio de fondo
   </a>
   <a href="https://www.youtube.com/@doctorlotoz">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://www.youtube.com/@doctorlotoz">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=#fd5949&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
 
