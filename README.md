@@ -7,7 +7,7 @@
 
 #### Is like this:
 > ![Homer-Page](https://i.makeagif.com/media/5-26-2017/NL2ZbN.gif)
-###### (is joke, my page is more professional)
+###### (is joke 😂, my web is more professional)
 
 ## 💻 About Me
 
