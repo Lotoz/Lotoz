@@ -1,28 +1,37 @@
 # Hi my friend! I'm Lotoz :D
+
 > Welcome to my GitHub corner!  
 > Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
 
-## [See this!😲](https://lotoz.github.io/Lotoz-Web/)
+## [My site web!😲](https://lotoz.github.io/Lotoz-Web/)
+
+> Is like this:
+> ![Homer-Page](https://i.makeagif.com/media/5-26-2017/NL2ZbN.gif)
+> (is joke, my page is more professional)
 
 ## 💻 About Me
+
 - Junior Developer & Cybersecurity Enthusiast 🔐
 - Linux Lover 🐧
 - Open Source Advocate 🌐
 - Always learning, experimenting, and sharing code 🚀
-  
+
 ## 🌱 Currently Learning
-- Studying Cybersecurity 🛡️  
-- Learning Programming Languages: Java, Python, Shell, PHP, JavaScript, and more! 💻  
+
+- Studying Cybersecurity 🛡️
+- Learning Programming Languages: Java, Python, Shell, PHP, JavaScript, and more! 💻
 - DAW (Web Development) 🖥️
 - Always learning Linux 🐧 (I use Arch BTW 😉💜)
 
 ###
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,linux,arch,debian,py,js,java,bash,godot,mysql,vs" />
   </a>
 </p>
-<!--<div align="center">
+<!-- Antiguo icons
+<div align="center">
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=linux" height="60" alt="python logo"  />
   <img width="12" />
@@ -46,9 +55,7 @@
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="python logo"  />
   <img width="12" />
-</div>-->
-
-  <!--   
+</div>
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="python logo"  />
   <img width="12" />
 -->
@@ -79,7 +86,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=Lotoz&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"/>
 </div>
 
-<!--Pacman, serpiente por ahora--> 
+<!--Pacman-->
+
 ###
 
 <picture>
@@ -87,4 +95,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lotoz/lotoz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lotoz/lotoz/output/pacman-contribution-graph.svg">
 </picture>
-
