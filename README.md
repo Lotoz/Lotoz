@@ -1,7 +1,13 @@
 
 ![BannerLotoz](./banner.png)
 
-## [My site web!😲](https://lotoz.github.io/Lotoz-Web/)
+<div align="center">
+  <p>
+
+## [My site web!😲🐧](https://lotoz.github.io/Lotoz-Web/)
+
+  </p>
+</div>
 
 ## 💻 About Me 🐧
 
@@ -10,7 +16,7 @@
 - Open Source Advocate 🌐
 - Always learning, experimenting, and sharing code 🚀
 
-## 🌱 Currently Learning 
+## 🌱 Currently Learning 💜
 
 - Studying Cybersecurity 🛡️
 - Learning Programming Languages: Java, Python, Shell, PHP, JavaScript, and more! 💻
@@ -28,19 +34,13 @@
 
 ## 📫 Connect with Me 🐧
 
-- LinkedIn — [Zamira Grippi](https://www.linkedin.com/in/zamira-grippi)  
-  ![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge)
-
-- YouTube — [doctorlotoz](https://www.youtube.com/@doctorlotoz)  
-  ![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge)
-
-- Instagram — [@dr_lotoz](https://www.instagram.com/dr_lotoz)  
-  ![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=d6249f&logoColor=white&style=for-the-badge)
-
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/zamira-grippi)  
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@doctorlotoz)  
+[![Instagram](https://img.shields.io/badge/Follow-Instagram-d6249f?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/dr_lotoz)
 
 ###
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats 🐧
 
 ![Contribution Graph](https://github-readme-stats.vercel.app/api?username=Lotoz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1)
 
@@ -59,5 +59,14 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lotoz.Lotoz)
 ![GitHub followers](https://img.shields.io/github/followers/Lotoz?label=Follow&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Lotoz?label=Watch&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Lotoz?label=Star&style=social)
+
+
+##### Little question... How many penguins do you see in the readme?
+
+  - ![2](./answers/2penguin.md)
+  - ![14](./answers/14penguin.md)
+  - ![6](./answers/6penguin.md)
+  - ![infinity 🐧🐧🐧🐧🐧🐧...](./answers/infinity.md)
+
+ 🐧 Choose wisely! 😉🐧
