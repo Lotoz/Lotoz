@@ -62,10 +62,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/Lotoz?label=Star&style=social)
 
 
-##### Little question... How many penguins do you see in the readme?
+#### Little question... How many penguins do you see in the readme?
 
   - ![2](./answers/2penguin.md)
-  - ![14](./answers/14penguin.md)
+  - ![15](./answers/14penguin.md)
   - ![6](./answers/6penguin.md)
   - ![infinity 🐧🐧🐧🐧🐧🐧...](./answers/infinity.md)
 
