@@ -3,10 +3,6 @@
 
 ## [My site web!😲](https://lotoz.github.io/Lotoz-Web/)
 
-> Is like this:
-> ![Homer-Page](https://i.makeagif.com/media/5-26-2017/NL2ZbN.gif)
-> (is joke, my page is more professional)
-
 ## 💻 About Me
 
 - Junior Developer & Cybersecurity Enthusiast 🔐
