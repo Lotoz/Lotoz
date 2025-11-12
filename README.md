@@ -65,7 +65,7 @@
 #### Little question... How many penguins do you see in the readme?
 
   - ![2](./answers/2penguin.md)
-  - ![15](./answers/14penguin.md)
+  - ![16](./answers/14penguin.md)
   - ![6](./answers/6penguin.md)
   - ![infinity 🐧🐧🐧🐧🐧🐧...](./answers/infinity.md)
 

@@ -6,4 +6,4 @@
 
 🐧🐧🐧🐧🐧...
 
-![Back to the readme](/README.md)
+![Back to the readme](https://github.com/Lotoz)
