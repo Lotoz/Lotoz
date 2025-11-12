@@ -1,13 +1,11 @@
-# Hi my friend! I'm Lotoz :D
 
-> Welcome to my GitHub corner!  
-> Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
+![BannerLotoz](./banner.png)
 
 ## [My site web!😲](https://lotoz.github.io/Lotoz-Web/)
 
-#### Is like this:
+> Is like this:
 > ![Homer-Page](https://i.makeagif.com/media/5-26-2017/NL2ZbN.gif)
-###### (is joke 😂, my web is more professional)
+> (is joke, my page is more professional)
 
 ## 💻 About Me
 
@@ -30,7 +28,11 @@
     <img src="https://skillicons.dev/icons?i=git,docker,linux,arch,debian,py,js,java,bash,godot,mysql,vs" />
   </a>
 </p>
-<!-- Antiguo icons
+<!--
+Hi my friend! I'm Lotoz :D
+Welcome to my GitHub corner!  
+Exploring the world of development, Linux, and cybersecurity 💻🐧🔐
+ Antiguo icons
 <div align="center">
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=linux" height="60" alt="python logo"  />
