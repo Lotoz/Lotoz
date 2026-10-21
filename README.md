@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./assets/holographic-foil.svg" alt="Zamira Grippi — Cybersecurity, Blue Team, Linux (Level 1)" width="100%" />
 </p>
-<a href="https://lotoz.github.io/Lotoz-Web/">Visit my website</a>
+<a href="https://lotoz.github.io/Lotoz-Web/">Visit my website🐧</a>
 
 ## About Me
 
@@ -14,7 +14,7 @@ I'm Zamira Grippi, also known as Lotoz. I'm focused on cybersecurity, especially
 - Digital forensics
 - Ethical hacking
 - Security auditing
-- Linux systems
+- Linux systems🐧🐧
 
 ## Technologies & Tools
 
@@ -33,11 +33,11 @@ I'm Zamira Grippi, also known as Lotoz. I'm focused on cybersecurity, especially
 - **Cybersecurity**, Alan Turing — currently studying.
 - **C programming** — self-study, focusing on the fundamentals.
 
-## Connect
+## 🐧Connect
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/zamira-grippi)
 [![YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@doctorlotoz)
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Lotoz)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Lotoz) 🐧
 
 <!-- Contribution graph -->
 <picture>
@@ -52,7 +52,7 @@ I'm Zamira Grippi, also known as Lotoz. I'm focused on cybersecurity, especially
 ![GitHub followers](https://img.shields.io/github/followers/Lotoz?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Lotoz?label=Star&style=social)
 
-#### A little question: how many penguins can you spot in this README?
+#### A little question: how many penguins can you spot in this README?🐧🐧
 
   - ![2](./answers/2penguin.md)
   - ![16](./answers/14penguin.md)
