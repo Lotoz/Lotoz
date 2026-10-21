@@ -1,7 +1,4 @@
 
-![BannerLotoz](./banner.png)
-
-
 <p align="center">
   <img src="./assets/holographic-foil.svg" alt="Zamira Grippi — Cybersecurity, Blue Team, Linux (Level 1)" width="100%" />
 </p>
